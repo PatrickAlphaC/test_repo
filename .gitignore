@@ -175,3 +175,5 @@ lib/
 .password.unsafe
 .password
 .password*
+
+.DS_Store
